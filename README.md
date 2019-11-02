@@ -1,5 +1,5 @@
 # devfest2
-#Getting Started With Node.js, Building your first node application.
+# Getting Started With Node.js, Building your first node application.
  ## What is Node.js ?
  *It is a JavaScript runtime enevironment for server side. Node.js is built on Chromes's V8 JavaScript engine.*
  ## Creating Our First Node Application
@@ -68,4 +68,4 @@ In order for our application to listen and respond to this get request, we will 
 Finally, we run the server by using **node server** command in the terminal, then visit **localhost:4000** in the browser.
 
 # Congrats, you've built and tested your first node application!
-#### NOTE: if you download the project from theis repo, remember to run **npm install** in order to download the modules used in the project
+#### NOTE: if you download the project from this repo, remember to run **npm install** in order to download the modules used in the project
