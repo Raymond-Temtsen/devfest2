@@ -70,4 +70,4 @@ In order for our application to listen and respond to this get request, we will 
 Finally, we run the server by using **node server** command in the terminal, then visit **localhost:4000** in the browser.
 
 # Congrats, you've built and tested your first node application!
-#### NOTE: if you download the project from this repo, remember to run **npm install** in order to download the modules used in the project
+#### NOTE: if you download the project from this repo, remember to run **npm install** in your terminal in order to download the modules used in the project
