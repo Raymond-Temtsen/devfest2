@@ -3,7 +3,7 @@
  ## What is Node.js ?
  ![node](https://res.cloudinary.com/raymondtemtsen/image/upload/v1572681926/node_ilqkkz.png)
  
- *It is a JavaScript runtime enevironment for server side. Node.js is built on Chromes's V8 JavaScript engine.*
+ *It is a JavaScript runtime environment for server side. Node.js is built on Chromes's V8 JavaScript engine.*
  ## Creating Our First Node Application
  ### Requirements
  1. Knowledge of JavaScript
