@@ -1,0 +1,22 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "A Test Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raymond-Temtsen/devfest2.git"
+  },
+  "author": "raymondTemtsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raymond-Temtsen/devfest2/issues"
+  },
+  "homepage": "https://github.com/Raymond-Temtsen/devfest2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
