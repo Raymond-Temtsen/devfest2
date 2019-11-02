@@ -1,6 +1,7 @@
 # devfest2
 # Getting Started With Node.js, Building your first node application.
  ## What is Node.js ?
+ ![node](https://res.cloudinary.com/raymondtemtsen/image/upload/v1572681399/1200px-Node.js_logo.svg_njbdvj.png)
  *It is a JavaScript runtime enevironment for server side. Node.js is built on Chromes's V8 JavaScript engine.*
  ## Creating Our First Node Application
  ### Requirements
